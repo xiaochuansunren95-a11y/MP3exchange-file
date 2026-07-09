@@ -48,7 +48,7 @@ pip install streamlit yt-dlp
 以下のコマンドを実行すると、ローカルサーバーが起動し、自動的にブラウザでアプリケーション画面（ `http://localhost:8501` ）が開きます。
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 
 ```
 
